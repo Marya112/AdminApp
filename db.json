@@ -1,0 +1,82 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin",
+      "password": "12345",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "hajar",
+      "name": "Hajar",
+      "password": "hajar@123",
+      "email": "hajar@gmail.com",
+      "gender": "female",
+      "role": "Doctor",
+      "isactive": true
+    },
+    {
+      "id": "marya",
+      "name": "Marya",
+      "password": "marya@123",
+      "email": "marya@gmail.com",
+      "gender": "female",
+      "role": "Doctor",
+      "isactive": true
+    },
+    {
+      "id": "salma",
+      "name": "Salma",
+      "password": "salma@123",
+      "email": "salma@gmail.com",
+      "gender": "female",
+      "role": "Doctor",
+      "isactive": true
+    },
+    {
+      "id": "salah",
+      "name": "Salah",
+      "password": "salah@123",
+      "email": "salah@gmail.com",
+      "gender": "male",
+      "role": "Doctor",
+      "isactive": false
+    },
+    {
+      "id": "mohamed",
+      "name": "Mohamed",
+      "password": "mohamed@123",
+      "email": "mohamed@gmail.com",
+      "gender": "male",
+      "role": "Doctor",
+      "isactive": true
+    },
+    {
+      "id": "asmaa",
+      "name": "Asmaa",
+      "password": "Asmaa@12345",
+      "email": "asmaa@gmail.com",
+      "gender": "female",
+      "role": "Doctor",
+      "isactive": true
+    },
+    {
+      "id": "lina",
+      "name": "Lina",
+      "password": "Lina@1234",
+      "email": "lina@gmail.com",
+      "gender": "female",
+      "role": "Doctor",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "Doctor",
+      "name": "Doctor"
+    }
+  ]
+}
